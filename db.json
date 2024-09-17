@@ -401,56 +401,6 @@
       "docUsuario": "089.654.321-00",
       "status": 1,
       "id": "8eb5"
-    },
-    {
-      "cdTransacao": 104,
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 2,
-      "nomeAssociada": "Associada teste 2",
-      "nomeUsuario": "Usuario teste 2",
-      "docUsuario": "089.654.321-00",
-      "status": 1,
-      "id": "f49a"
-    },
-    {
-      "cdTransacao": 105,
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 3,
-      "nomeAssociada": "Associada teste 3",
-      "nomeUsuario": "Usuario teste 3",
-      "docUsuario": "089.654.321-00",
-      "status": 1,
-      "id": "7010"
-    },
-    {
-      "cdTransacao": 106,
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 1,
-      "nomeAssociada": "Associada teste 1",
-      "nomeUsuario": "Usuario teste 1",
-      "docUsuario": "089.654.321-00",
-      "status": 1,
-      "id": "62fc"
-    },
-    {
-      "cdTransacao": 107,
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 2,
-      "nomeAssociada": "Associada teste 2",
-      "nomeUsuario": "Usuario teste 2",
-      "docUsuario": "089.654.321-00",
-      "status": 1,
-      "id": "b59d"
-    },
-    {
-      "cdTransacao": 108,
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 3,
-      "nomeAssociada": "Associada teste 3",
-      "nomeUsuario": "Usuario teste 3",
-      "docUsuario": "089.654.321-00",
-      "status": 1,
-      "id": "7f4a"
     }
   ],
   "relatorio_detalhes": [
