@@ -91,78 +91,6 @@
       "usuario": "usuario5",
       "senha": "senha5",
       "flgAtivo": 1
-    },
-    {
-      "id": "6",
-      "associadaId": "2",
-      "endpointId": "3",
-      "host": "http://localhost:3000/api/v1",
-      "usuario": "usuario6",
-      "senha": "senha6",
-      "flgAtivo": 1
-    },
-    {
-      "id": "7",
-      "associadaId": "3",
-      "endpointId": "1",
-      "host": "http://localhost:3000/api/v1",
-      "usuario": "usuario7",
-      "senha": "senha7",
-      "flgAtivo": 1
-    },
-    {
-      "id": "8",
-      "associadaId": "3",
-      "endpointId": "2",
-      "host": "http://localhost:3000/api/v1",
-      "usuario": "usuario8",
-      "senha": "senha8",
-      "flgAtivo": 1
-    },
-    {
-      "id": "9",
-      "associadaId": "3",
-      "endpointId": "3",
-      "host": "http://localhost:3000/api/v1",
-      "usuario": "usuario9",
-      "senha": "senha9",
-      "flgAtivo": 1
-    },
-    {
-      "id": "f7dc",
-      "endpointId": "2",
-      "host": "http://teste:3000/api/v1",
-      "usuario": "novo22",
-      "senha": "novo22",
-      "flgAtivo": 1
-    },
-    {
-      "id": "554d",
-      "associadaId": "2",
-      "endpointId": "1",
-      "host": "http://teste2:3000/api/v1",
-      "usuario": "teste33",
-      "senha": "33",
-      "flgAtivo": 1
-    },
-    {
-      "id": "9e05",
-      "associadaId": "3",
-      "endpointId": "3",
-      "host": "http://teste:3000/api/v1",
-      "usuario": "teste5",
-      "senha": "555",
-      "flgAtivo": 1
-    }
-  ],
-  "statuss": [
-    {
-      "id": "1",
-      "descricao": "Ativo"
-    },
-    {
-      "id": "2",
-      "descricao": "Inativo"
     }
   ],
   "associadas": [
@@ -192,26 +120,6 @@
       "contatoResponsavel": "11999999999",
       "emailResponsavel": "empres3a@teste.com",
       "flgAtivo": 1
-    }
-  ],
-  "grupos": [
-    {
-      "id": "1",
-      "descricao": "Grupo usuário teste 1"
-    },
-    {
-      "id": "2",
-      "descricao": "Grupo usuário teste 2"
-    }
-  ],
-  "grupos_usuarios": [
-    {
-      "grupoId": "1",
-      "usuarioId": "1"
-    },
-    {
-      "grupoId": "1",
-      "usuarioId": "2"
     }
   ],
   "usuarios": [
@@ -359,74 +267,6 @@
       "email": "teste@teste.com",
       "login": "testeu1",
       "flgAtivo": 2
-    }
-  ],
-  "relatorios": [
-    {
-      "cdTransacao": 100,
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 1,
-      "nomeAssociada": "Associada teste 1",
-      "nomeUsuario": "Usuario teste 1",
-      "docUsuario": "089.654.321-00",
-      "status": 1,
-      "id": "e7fb"
-    },
-    {
-      "cdTransacao": 101,
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 2,
-      "nomeAssociada": "Associada teste 2",
-      "nomeUsuario": "Usuario teste 2",
-      "docUsuario": "089.654.321-00",
-      "status": 1,
-      "id": "e5ff"
-    },
-    {
-      "cdTransacao": 102,
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 3,
-      "nomeAssociada": "Associada teste 3",
-      "nomeUsuario": "Usuario teste 3",
-      "docUsuario": "089.654.321-00",
-      "status": 1,
-      "id": "62d8"
-    },
-    {
-      "cdTransacao": 103,
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 1,
-      "nomeAssociada": "Associada teste 1",
-      "nomeUsuario": "Usuario teste 1",
-      "docUsuario": "089.654.321-00",
-      "status": 1,
-      "id": "8eb5"
-    }
-  ],
-  "relatorio_detalhes": [
-    {
-      "relatorioId": "e7fb",
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 1,
-      "respostaPositiva": true
-    },
-    {
-      "relatorioId": "e7fb",
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 2,
-      "respostaPositiva": false
-    },
-    {
-      "relatorioId": "e7fb",
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 3,
-      "respostaPositiva": false
-    },
-    {
-      "relatorioId": "e7fb",
-      "dataTransacao": "01/01/2024 15:30:35",
-      "cdAssociada": 4,
-      "respostaPositiva": true
     }
   ]
 }
